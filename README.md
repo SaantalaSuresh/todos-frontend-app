@@ -35,7 +35,7 @@ To use the React To-Do Application, follow these steps:
 
 1. Start the development server:
 npm start
- Open your web browser and visit `http://localhost:3000`
+ Open your web browser and visit https://todos-frontend-app.vercel.app/
 
 ## Application Structure
 src/
